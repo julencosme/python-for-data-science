@@ -1,2 +1,2 @@
 # python-for-data-science
-Files relating to EdX course: Python for Data Science
+Files relating to data science using Python
